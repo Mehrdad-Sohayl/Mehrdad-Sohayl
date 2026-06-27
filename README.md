@@ -1,123 +1,93 @@
-# Hi, I'm Mehrdad 👋
+# 👋 Hi, I'm Mehrdad
 
-### Backend Engineer | .NET Developer | Distributed Systems Enthusiast
+**Back-End .NET Engineer** building reliable systems for complex business and financial domains.
 
-I build reliable backend systems for complex business and financial domains.
+📍 Tehran, Iran · 5+ years in backend engineering
 
-Over the last 5 years, I've been designing and developing backend services, APIs, distributed systems, and event-driven architectures using the Microsoft ecosystem. My focus is not just writing code, but building software that remains maintainable, observable, and scalable as products grow.
-
----
-
-## 🚀 What I'm Working On
-
-💹 Financial Trading Systems
-
-I have been involved in the development of an Options Trading Platform, working on business-critical services that support trading operations, transaction processing, and asynchronous workflows.
-
-My work includes:
-
-* Building ASP.NET Core APIs and BFFs
-* Designing solutions with Clean Architecture and CQRS
-* Developing distributed workflows with RabbitMQ and Kafka
-* Managing data using SQL Server and MongoDB
-* Deploying services with Docker and Kubernetes
-* Creating monitoring dashboards and observability solutions
-* Investigating production bottlenecks using APM tools
-* Improving order placement performance by approximately 50%
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrdad-sohayl)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mehrdad-Sohayl)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mehsohayl@gmail.com)
 
 ---
 
-## 🏗 Technical Highlights
+## 💼 What I Do
 
-### Architecture
+I design and build backend services, APIs, and event-driven systems in the Microsoft ecosystem. My focus is on software that stays **maintainable, observable, and scalable** as products grow.
 
-* Clean Architecture
-* Modular Monolith
-* CQRS
-* Event-Driven Architecture
-* Distributed Systems
+Currently working on an **Options Trading Platform**:
+- Building ASP.NET Core APIs & BFFs with Clean Architecture + CQRS
+- Distributed workflows via RabbitMQ / Kafka
+- SQL Server + MongoDB for persistence
+- Docker + Kubernetes deployment
+- Monitoring & observability with Grafana, Elasticsearch, APM tools
+- **Improved order placement performance ~50%** through bottleneck analysis
 
-### Backend Development
+---
 
-* C#
-* .NET
-* ASP.NET Core
-* REST APIs
-* Background Services
-* BFF Pattern
+## 🔥 Featured Projects
 
-### Data & Messaging
+### [ArasTrader](https://github.com/Mehrdad-Sohayl/ArasTrader)
+Options trading platform — CQRS, event-driven architecture, real-time market data processing. Built with .NET, RabbitMQ, and SQL Server.
 
-* SQL Server
-* MongoDB
-* RabbitMQ
-* Apache Kafka
+### [MehrShopping](https://github.com/Mehrdad-Sohayl/MehrShopping)
+E-commerce backend — clean architecture, modular monolith with domain-driven design, REST API, and background job processing. (MIT License)
 
-### DevOps & Operations
+### [Person-Service](https://github.com/Mehrdad-Sohayl/Person-Service)
+CRUD microservice demonstrating clean architecture layering, repository pattern, FluentValidation, and AutoMapper in a real-world service shape.
 
-* Docker
-* Kubernetes
-* Azure DevOps
-* CI/CD Pipelines
+### [EfCoreRelationshipDemo](https://github.com/Mehrdad-Sohayl/EfCoreRelationshipDemo)
+Practical examples of Entity Framework Core relationships — one-to-one, one-to-many, many-to-many with fluent API configuration.
 
-### Monitoring & Quality
+---
 
-* Grafana
-* Elasticsearch
-* APM Tools
-* xUnit
-* Automated Testing
+## 🛠 Tech Stack
+
+```
+C#  .NET  ASP.NET Core  REST APIs  Background Services
+CQRS  Event-Driven  Clean Architecture  Modular Monolith
+SQL Server  MongoDB  RabbitMQ  Apache Kafka
+Docker  Kubernetes  Azure DevOps  CI/CD
+xUnit  Grafana  Elasticsearch  APM Tools
+```
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mehrdad-sohayl&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehrdad-sohayl&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-sohayl&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 ## 🎯 Engineering Philosophy
 
-I enjoy solving problems that appear after the first version of software is already running:
+I enjoy solving the problems that appear after the first version ships:
+- How do we scale it?
+- How do we monitor it in production?
+- How do we keep it maintainable as the team grows?
+- How do we make failures recoverable without data loss?
+- How do we balance business complexity against technical complexity?
 
-* How do we scale it?
-* How do we monitor it?
-* How do we keep it maintainable?
-* How do we make failures recoverable?
-* How do we keep business and technical complexity under control?
-
-I believe good software is not measured by the amount of code written, but by its reliability, maintainability, and ability to support business goals.
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Distributed Systems
-* Software Architecture
-* Domain-Driven Design
-* AI Agents & Intelligent Systems
+Good software isn't measured by lines of code — it's measured by **reliability, maintainability, and how well it serves the business**.
 
 ---
 
-## 📈 Beyond Coding
+## 🌱 Currently Exploring
 
-Outside of work, I'm interested in:
-
-* Software Architecture
-* System Design
-* Financial Markets
-* Entrepreneurship
-* Building Digital Products
+- Advanced distributed systems & consensus protocols
+- Domain-Driven Design in practice
+- AI agents & intelligent systems
+- Go for high-throughput services
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehrdad-sohayl&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehrdad-sohayl&theme=dracula&hide_border=false)<br/>
+## 📫 Let's Connect
 
-## 🤝 Let's Connect
+I'm always up for conversations about:
+- Backend engineering & .NET ecosystems
+- Distributed systems architecture
+- Financial technology & trading platforms
+- Product engineering & building digital products
 
-I'm always interested in discussing:
-
-💡 Backend Engineering
-⚡ Distributed Systems
-🏛 Software Architecture
-📊 Financial Technology
-🚀 Product Development
-
-Thanks for visiting my profile.
-Feel free to explore my repositories and projects.
+**Thanks for stopping by — feel free to explore my repos and drop a star if something catches your eye!**
