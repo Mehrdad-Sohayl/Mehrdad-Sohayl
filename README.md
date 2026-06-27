@@ -89,7 +89,6 @@ I believe good software is not measured by the amount of code written, but by it
 * Advanced Distributed Systems
 * Software Architecture
 * Domain-Driven Design
-* Cloud-Native Patterns
 * AI Agents & Intelligent Systems
 
 ---
@@ -105,6 +104,10 @@ Outside of work, I'm interested in:
 * Building Digital Products
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehrdad-sohayl&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehrdad-sohayl&theme=dracula&hide_border=false)<br/>
 
 ## 🤝 Let's Connect
 
