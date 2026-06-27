@@ -52,7 +52,7 @@ Currently working on an **Options Trading Platform**:
 ## 🔥 Featured Projects
 
 ### [ArasTrader](https://github.com/Mehrdad-Sohayl/ArasTrader)
-Options trading platform — CQRS, event-driven architecture, real-time market data processing. Built with .NET, RabbitMQ, and SQL Server.
+Trading platform — CQRS, event-driven architecture, real-time market data processing. Built with .NET, RabbitMQ, and SQL Server.
 
 ### [MehrShopping](https://github.com/Mehrdad-Sohayl/MehrShopping)
 E-commerce backend — clean architecture, modular monolith with domain-driven design, REST API, and background job processing. (MIT License)
