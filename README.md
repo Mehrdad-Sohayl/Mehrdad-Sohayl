@@ -10,6 +10,31 @@
 
 ---
 
+## 🛠 Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-512BD4?style=flat&logo=grpc&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=entity-framework&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Hangfire](https://img.shields.io/badge/Hangfire-7A2CFF?style=flat&logo=hangfire&logoColor=white)
+![Refit](https://img.shields.io/badge/Refit-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Polly](https://img.shields.io/badge/Polly-FF4785?style=flat&logo=polly&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+---
+
 ## 💼 What I Do
 
 I design and build backend services, APIs, and event-driven systems in the Microsoft ecosystem. My focus is on software that stays **maintainable, observable, and scalable** as products grow.
@@ -37,18 +62,6 @@ CRUD microservice demonstrating clean architecture layering, repository pattern,
 
 ### [EfCoreRelationshipDemo](https://github.com/Mehrdad-Sohayl/EfCoreRelationshipDemo)
 Practical examples of Entity Framework Core relationships — one-to-one, one-to-many, many-to-many with fluent API configuration.
-
----
-
-## 🛠 Tech Stack
-
-```
-C#  .NET  ASP.NET Core  REST APIs  Background Services
-CQRS  Event-Driven  Clean Architecture  Modular Monolith
-SQL Server  MongoDB  RabbitMQ  Apache Kafka
-Docker  Kubernetes  Azure DevOps  CI/CD
-xUnit  Grafana  Elasticsearch  APM Tools
-```
 
 ---
 
